@@ -11,6 +11,6 @@ I don't have time to document them all, though. The dependencies on many librari
 I've shared a small subset of the functions on https://github.com/penock/phil-on-learning-r-guide so you can head there for more publicly usable ones (that don't have library dependencies).
 
 ## Files in this repository
-The key file here is: **ph.main.R**
+The key file here is: **[ph.main.R](ph.main.R)**
 
 If you source that, it will source the other files (provided you set the path constant correctly up top).
